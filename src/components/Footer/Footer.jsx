@@ -16,10 +16,8 @@ const Footer = () => {
         <ul className='permalinks'>
           <li><a href="#/">Home</a></li>
           <li><a href="#/teamprofile">Team Profile</a></li>
-          <li><a href="#/industrydata">Industry Data</a></li>
-          <li><a href="#/itwork">IT Work</a></li>
-          <li><a href="#/ittechnologies">IT Technologies</a></li>
           <li><a href="#/projectidea">Project Idea</a></li>
+          <li><a href="#/skillsandjobs">Skills and Jobs</a></li>
           <li><a href="#/groupreflection">Group Reflection</a></li>
         </ul>
 
