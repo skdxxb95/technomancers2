@@ -15,10 +15,10 @@
 
 :root {
     --color-bg: #111111;
-    --color-bg-variant: #2c2c6c69;
+    --color-bg-variant: #4d4d4d69;
     --color-secondary: #333;
-    --color-primary: #4db5ff;
-    --color-primary-variant: rgba(77, 181, 255, 0.11);
+    --color-primary: #ff7300;
+    --color-primary-variant: #ff73001e;
     --color-white: #fff;
     --color-light: rgba(255, 255, 255, 0.6);
 
@@ -27,8 +27,7 @@
     --container-width-lg: 75%;
     --container-width-md: 86%;
     --container-width-sm: 90%;
-    --img: url(../src/assets/background.png);
-    --img-secondary: url(../src/assets/bg-texture.png);
+    --img: url(../src/assets/bg-texture.png)
 }
 
 html {
@@ -39,18 +38,18 @@ html {
     display: none;
 }
 
+
 body {
     background-color: var(--color-bg);
     color: var(--color-white);
     font-family: 'Prompt', sans-serif;
     line-height: 1.7;
-    background: radial-gradient(circle, rgba(255, 255, 255, 0), rgb(0, 0, 0)), var(--img);
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: left top;
+    background-image: radial-gradient(ellipse, rgba(8, 8, 8, 0.048), rgb(0, 0, 0)), var(--img);
+    background-size: cover, repeat;
+    background-repeat: no-repeat, repeat;
     background-attachment: fixed;
     height: 100vh;
-    }
+}
 
 
 /*=============== GENERAL STYLES ===============*/
