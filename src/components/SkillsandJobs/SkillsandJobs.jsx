@@ -8,7 +8,10 @@ const SkillsandJobs = () => {
         <div className="skillsandjobs-content">
             <h1>Skills and Jobs</h1>
             <h5>Who we want to take with us to the next phase.</h5>
-            
+            <div>
+              <h3>Test</h3>
+              <p>Hellooo</p>
+          </div>
         </div>
       </div>
     </section>
