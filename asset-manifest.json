@@ -1,17 +1,15 @@
 {
   "files": {
-    "main.css": "/technomancers2/static/css/main.738b421f.css",
-    "main.js": "/technomancers2/static/js/main.05a50326.js",
-    "static/media/Best.PNG": "/technomancers2/static/media/Best.47481221f165624d8218.PNG",
-    "static/media/Best3.png": "/technomancers2/static/media/Best3.e6ab71a8f4d27f391e63.png",
+    "main.css": "/technomancers2/static/css/main.506959a9.css",
+    "main.js": "/technomancers2/static/js/main.d8eb06ce.js",
     "static/media/rasppico.jpg": "/technomancers2/static/media/rasppico.3cae94d4ff4a76efb1f4.jpg",
     "static/media/ideal_table.png": "/technomancers2/static/media/ideal_table.cc2fe2e11d948d1e86f9.png",
     "index.html": "/technomancers2/index.html",
-    "main.738b421f.css.map": "/technomancers2/static/css/main.738b421f.css.map",
-    "main.05a50326.js.map": "/technomancers2/static/js/main.05a50326.js.map"
+    "main.506959a9.css.map": "/technomancers2/static/css/main.506959a9.css.map",
+    "main.d8eb06ce.js.map": "/technomancers2/static/js/main.d8eb06ce.js.map"
   },
   "entrypoints": [
-    "static/css/main.738b421f.css",
-    "static/js/main.05a50326.js"
+    "static/css/main.506959a9.css",
+    "static/js/main.d8eb06ce.js"
   ]
 }
