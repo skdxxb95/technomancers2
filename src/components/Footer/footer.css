@@ -55,7 +55,6 @@ footer a {
     background: var(--color-bg-variant);
     color: var(--color-white);
     padding: 0.8rem;
-    border-radius: 0.7rem;
     display: flex;
     border: 1px solid transparent;
     border-color: var(--color-primary);

@@ -12,7 +12,6 @@
     justify-content: center;
     height: 50px;
     width: 50px;
-    border-radius: 1rem;
     background: var(--color-bg);
     border: 1px solid var(--color-primary);
   }
@@ -22,7 +21,6 @@
     background: none;
     color: var(--color-light);
     padding: 0.7rem 1.1rem 0rem 1.1rem;
-    border-radius: 1rem;
   }
 
   .menu-bars-x {
@@ -30,7 +28,6 @@
     font-size: 2rem;
     background: none;
     color: var(--color-light);
-    border-radius: 1rem;
   }
   
 .nav-menu {
@@ -70,7 +67,6 @@
     display: flex;
     align-items: center;
     padding: 0 16px;
-    border-radius: 4px;
   }
   
   .nav-text a:hover {

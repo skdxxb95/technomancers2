@@ -9,7 +9,7 @@ const SkillsandJobs = () => {
             <h1>Skills and Jobs</h1>
             <h5>Who we want to take with us to the next phase.</h5>
             <div>
-              <h3>Test</h3>
+              <h2>Test</h2>
               <p>Hellooo</p>
           </div>
         </div>
