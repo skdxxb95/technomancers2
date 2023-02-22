@@ -46,17 +46,6 @@
   animation: flicker 3s infinite;
 }
 
-
-img {
-    margin: 2rem 0rem;
-    display: block;
-    width: 100%;
-    height: auto;
-    object-fit: cover;
-    border: 1px solid transparent;
-    border-color: var(--color-primary);
-}
-
 .introduction {
     width: var(--container-width-lg);
     margin: 4.5rem auto;

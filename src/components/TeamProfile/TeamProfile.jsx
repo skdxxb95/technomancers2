@@ -1,6 +1,5 @@
 import React from 'react'
 import './teamprofile.css'
-import IDEAL from '../../assets/ideal_table.png'
 
 const TeamProfile = () => {
   return (

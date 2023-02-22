@@ -1,5 +1,6 @@
 import React from 'react'
 import PICO from '../../assets/rasppico.jpg'
+import DUCK from '../../assets/duck.png'
 import './projectidea.css'
 
 const ProjectIdea = () => {
@@ -9,68 +10,47 @@ const ProjectIdea = () => {
         <div className="projectidea-content">
           <h1>DuckyPass</h1>
           <h5>Our Project Idea.</h5>
-          <img src={PICO}></img>
-          <div>
-
-
-
-                    <h1> Overview</h1> 
-                 <h2>Topic;</h2>
-              <h2>Duckypass</h2> 
-<img src="duck.png"/img{'>'} 
-<div>
-<p> The Technomancers project is
-to investigate the potential development and subsequent viability and uses
-for a device to be known as 'Duckypass'.</p> 
-<div></div>
-<p>
-It is a personal
-password manager based on the Raspberry Pi Pico that would store the users
-encrypted passwords, assessable by one password and able to be used at any
-computer anywhere. Having the passwords on a portable device rather than in a
-cloud-based password manager reduces the risk from hackers gaining access to
-passwords. Having one password to access device and list of passwords means
-the user does not have to remember numerous passwords. Duckypass can also be
-remotely formatted/wiped so if lost, misplaced or stolen the information will
-not be accessible to anyone who finds it. Its relatively cheap cost will mean
-users can have a spare safely stored away in case of damage or loss. </p>
-<p>There are some external/hardware password managers available but most are
-online software still at risk of hacking.</p> 
-<p>The build behind Duckypass
-would be a relatively complex procedure. There are a range of tools and
-skills required including Raspberry Pi Pico, Micro-USB cabling, Bluetooth
-receiver and/or RFID chip, programming, App development and de-bugging. It
-will involve knowledge and use of hardware, software, encryption languages
-and also project development. Much of the software is available as
-Open-source reducing build cost but hardware will require a monetary source
-and technological knowledge will require upskilling by the team if we were to
-attempt production ourselves.</p>
-<div></div> 
-<h2>Motivation</h2> 
-<img src="duck.png"/img'>'
-<p>The motivation behind Duckypass is manyfold. The risk
-of losing access to logins due to forgotten passwords. Who has not forgotten a
-password at some point?</p> <img src="duck.png" /img{'>'}  The risk of
-unauthorised access to logins due to passwords being hacked in cloud-based
-managers.</p> <img src="duck.png" /img{'>'} The ability to have a separate
-password for each login, which is recommended but pretty hard to remember and
-therefore impracticable. This again will reduce the risk of nefarious
-access.</p> <img src="duck.png" /img{'>'} The ability to login when no internet
-available. The information you require to login is on the device not in the
-cloud, you do not need internet connection to access data.</p> 
-
-<div></div>                                                                     
-
-<h2>Landscape</h2>
-<img src="duck.png"/img{'>'}
-<p>There are many passwords managers available. The three most common are desktop, such as Onlykey and RedZone, these managers are able to be used offline, are encrypted and need a passcode to use, and have a lockout mechanism after a number of incorrect passcode attempts. Cloud-based, there are many cloud-based managers but these have a few drawbacks. Always needing internet connection, believe it or not, not everywhere has internet connection. You may want to access certain files on your or another collaborators computer at some secluded log cabin but Oh, no! No internet. Risk of an online breach, hacking, malware and probably some as yet unheard-of way for people to gain access to passwords. Single point of failure, should a hacker somehow obtain your password, but this risk can be reduced by two factor authentication. Also, some online password managers do not work with all websites. And there are Single sign-on password managers but these are generally used inside a corporation for worksites hosted internally. </p>
-<div></div>
-<img src="duck.png"/img{'>'}
-
-<div></div>
-
+          <img src={PICO} className="projectidea-pico"></img>
+            <div className='projectidea-overview'>
+            <h2>Overview</h2>
+            <img src={DUCK} className="projectidea-duck"></img>
+            <p> The Technomancers project is
+            to investigate the potential development and subsequent viability and uses
+            for a device to be known as 'Duckypass'.</p> 
+            <p>
+            It is a personal
+            password manager based on the Raspberry Pi Pico that would store the users
+            encrypted passwords, assessable by one password and able to be used at any
+            computer anywhere. Having the passwords on a portable device rather than in a
+            cloud-based password manager reduces the risk from hackers gaining access to
+            passwords. Having one password to access device and list of passwords means
+            the user does not have to remember numerous passwords. Duckypass can also be
+            remotely formatted/wiped so if lost, misplaced or stolen the information will
+            not be accessible to anyone who finds it. Its relatively cheap cost will mean
+            users can have a spare safely stored away in case of damage or loss. </p>
+            <p>There are some external/hardware password managers available but most are
+            online software still at risk of hacking.</p> 
+            <p>The build behind Duckypass
+            would be a relatively complex procedure. There are a range of tools and
+            skills required including Raspberry Pi Pico, Micro-USB cabling, Bluetooth
+            receiver and/or RFID chip, programming, App development and de-bugging. It
+            will involve knowledge and use of hardware, software, encryption languages
+            and also project development. Much of the software is available as
+            Open-source reducing build cost but hardware will require a monetary source
+            and technological knowledge will require upskilling by the team if we were to
+            attempt production ourselves.</p>
             <br></br>
-            <p>Hellooo</p>
+            <h2>Motivation</h2> 
+            <ul>
+            <li><img src={DUCK} className="projectidea-dotpointduck"></img> The motivation behind Duckypass is manyfold. The risk of losing access to logins due to forgotten passwords. Who has not forgotten a password at some point?</li> 
+            <li><img src={DUCK} className="projectidea-dotpointduck"></img> The risk of unauthorised access to logins due to passwords being hacked in cloud-based managers.</li>
+            <li><img src={DUCK} className="projectidea-dotpointduck"></img> The ability to have a separate password for each login, which is recommended but pretty hard to remember and therefore impracticable. This again will reduce the risk of nefarious access.</li>
+            <li><img src={DUCK} className="projectidea-dotpointduck"></img> The ability to login when no internet available. The information you require to login is on the device not in the cloud, you do not need internet connection to access data.</li> 
+            </ul>
+            <br></br>
+            <h2>Landscape</h2>
+            <img src={DUCK} className="projectidea-duck"></img>
+            <p>There are many passwords managers available. The three most common are desktop, such as Onlykey and RedZone, these managers are able to be used offline, are encrypted and need a passcode to use, and have a lockout mechanism after a number of incorrect passcode attempts. Cloud-based, there are many cloud-based managers but these have a few drawbacks. Always needing internet connection, believe it or not, not everywhere has internet connection. You may want to access certain files on your or another collaborators computer at some secluded log cabin but Oh, no! No internet. Risk of an online breach, hacking, malware and probably some as yet unheard-of way for people to gain access to passwords. Single point of failure, should a hacker somehow obtain your password, but this risk can be reduced by two factor authentication. Also, some online password managers do not work with all websites. And there are Single sign-on password managers but these are generally used inside a corporation for worksites hosted internally. </p>
           </div>
           <div>
             <h2>Aims</h2>
