@@ -9,6 +9,10 @@
     min-height: calc(100vh - 50px - 50px);
 }
 
+.skillsandjobs-content ul {
+    padding-left: 3rem;
+}
+
 .skillsandjobs-content img{
     display: block;
     margin-left: auto;
