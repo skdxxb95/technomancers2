@@ -180,7 +180,13 @@ const ProjectIdea = () => {
           <div>
             <h2>Group Processes and Communications</h2>
             <br></br>
-            <p>Hellooo</p>
+            <p>From our group's experience, it is evident that effective communication is vital for the success of a group assignment. We have found Microsoft Teams to be an excellent platform for group communication, and we plan to continue using it for future projects. In addition, we have also used Discord for communication, but it was not as effective as Teams.</p>
+            <br></br>
+            <p>As far as the frequency of meetings is concerned, we have found that meeting twice a week over Teams webcam chat worked well for us. However, this frequency may vary depending on the assignment and group's availability. It is crucial to find a schedule that works for everyone in the group. Our team has used face-to-face meetings on Microsoft Teams and has found it to be an effective way to communicate. However, we are also open to using other communication technologies such as email, text, or other platforms that we may find useful in the future. </p>
+            <br></br>
+            <p>In the case where a group member does not respond to communications, we would try to contact them through alternative means, such as email or phone. If that fails, we will discuss with the remaining group members and decide the best way forward, which may include assigning the missing member's responsibilities to the remaining team members or seeking help from the instructor.</p>
+            <br></br>
+            <p>Overall, effective communication and frequent meetings are essential to ensure the success of a group assignment. Our experience has shown that Microsoft Teams is an excellent platform for group communication, and we plan to continue using it in the future.</p>
           </div>
         </div>
       </div>

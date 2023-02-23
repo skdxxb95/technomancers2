@@ -14,7 +14,9 @@ const GroupReflection = () => {
           </div>
           <div>
             <h2>Sam K.</h2>
-            <p>Hellooo</p>
+            <p>
+            The largest difference noted between assignment 2 and 3 is in regard to the whole moral behind continuing putting in effort when no students were informed of the changes within the university hand-over, this disregard of respect towards our group put a dent in our work ethic. With the loss of one member without warning caused even greater hassle but was overcome quickly by the backbones of our group. With regards to my own amount of work given, there isn’t a great deal due to sudden life changes and compassionate circumstances, all in all, I am grateful that the team understood this and continued to soldier through the work without much of my presence. The time spent on these past assignments was made fantastic by our awesome team. 
+            </p>
           </div>
           <div>
             <h2>Sam B.</h2>
@@ -22,15 +24,23 @@ const GroupReflection = () => {
           </div>
           <div>
             <h2>Ally H.</h2>
-            <p>I think we work well as group. The team morale was badly affected by the not knowing what was happening with the Bachelor of IT that some of us were planning on going on with. Also, the grading from our last assignment as it was felt that some parts that we lost grades on were not clearly defined in the assignment description. I think this is probably a part of academic learning though and we are to be expected to know these things. Losing a team member was also a blow but understandable with the difficulties we had with all our work commitments and an 11 hour time difference.  But we have persevered, pulled together and continued to work as a team to complete our assignments.  </p>
+            <p>I think we work well as group. The team morale was badly affected by the not knowing what was happening with the Bachelor of IT that some of us were planning on going on with. Also, the grading from our last assignment as it was felt that some parts that we lost grades on were not clearly defined in the assignment description. I think this is probably a part of academic learning though and we are to be expected to know these things. It was still a good score. Losing a team member was also a blow but understandable with the difficulties we had with all our work commitments and an 11 hour time difference.  But we have persevered, pulled together and continued to work as a team to complete our assignments. I love the Technomancers and have so enjoyed working with them and the whole Essentials of IT course. Thank you all. </p>
           </div>
           <div>
             <h2>Damian W.</h2>
-            <p>Hellooo</p>
+            <p>
+              <i>*Damian is yet to contribute*</i>
+            </p>
           </div>
           <div>
             <h2>Reflection as a Group</h2>
-            <p>Hellooo</p>
+            <p>As a group, we encountered a number of obstacles while working on Assignment 3. One of the biggest challenges we faced was the lack of clear direction and understanding of what was expected of us. This made it harder for us to get started on the assignment and determine the best course of action to take. We had to spend a considerable amount of time discussing and clarifying the instructions and expectations for the project.</p>
+            <br></br>
+            <p>Despite this challenge, we were able to develop a plan of action through effective communication and collaboration. We recognized the importance of working together as a team and supporting each other throughout the process. We established regular meetings to discuss progress and identify areas that required additional attention. Unfortunately, we also had to deal with the loss of a team member who withdrew from the course. This was a blow to our team, and we had to work harder to pick up the slack. We were grateful for the dedication and commitment of the remaining members who were able to rally together and keep the project on track. Another challenge that impacted our team morale was the way RMIT administration handled the future enrolment process. This created a sense of uncertainty and anxiety among the group, which had a negative impact on our motivation and overall well-being. We felt that the university had not communicated effectively with us and that this had led to unnecessary stress and disruption to our work. Despite this setback, we were able to persevere and continue working together to complete the assignment.</p>
+            <br></br>
+            <p>Throughout the assignment, we learned a lot about the importance of effective communication and teamwork. We recognized that we were all in this together and that each team member had an important role to play. We also learned the value of asking for help when needed and being willing to support each other through the tough times. One aspect of the assignment that we found surprising was how evenly distributed the work was, despite the difficulties we faced. We were able to allocate tasks based on each member's strengths and interests, which led to a more balanced workload. However, we also recognized that the GitHub log may not accurately reflect the distribution of work. We felt that each member had contributed equally to the project, but this may not be apparent from the GitHub logs alone.</p>
+            <br></br>
+            <p>While Assignment 3 was not without its challenges, we are proud of the way we came together as a team to overcome them. We recognized the importance of effective communication, teamwork, and support, and we were able to apply these principles throughout the project. We are grateful for the lessons we learned and look forward to applying them in future projects.</p>
           </div>
         </div>
       </div>
