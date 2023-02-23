@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/technomancers2/static/css/main.5b9c5976.css",
-    "main.js": "/technomancers2/static/js/main.c50d0e8c.js",
+    "main.css": "/technomancers2/static/css/main.d669d36a.css",
+    "main.js": "/technomancers2/static/js/main.87dd5c88.js",
     "static/media/rasppico.jpg": "/technomancers2/static/media/rasppico.3cae94d4ff4a76efb1f4.jpg",
     "index.html": "/technomancers2/index.html",
-    "main.5b9c5976.css.map": "/technomancers2/static/css/main.5b9c5976.css.map",
-    "main.c50d0e8c.js.map": "/technomancers2/static/js/main.c50d0e8c.js.map"
+    "main.d669d36a.css.map": "/technomancers2/static/css/main.d669d36a.css.map",
+    "main.87dd5c88.js.map": "/technomancers2/static/js/main.87dd5c88.js.map"
   },
   "entrypoints": [
-    "static/css/main.5b9c5976.css",
-    "static/js/main.c50d0e8c.js"
+    "static/css/main.d669d36a.css",
+    "static/js/main.87dd5c88.js"
   ]
 }
