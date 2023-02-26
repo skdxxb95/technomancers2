@@ -1,5 +1,6 @@
 import React from 'react'
 import './groupreflection.css'
+import GIT from '../../assets/github.png'
 
 const GroupReflection = () => {
   return (
@@ -32,6 +33,14 @@ const GroupReflection = () => {
               <i>*Damian is yet to contribute*</i>
             </p>
           </div>
+        </div>
+          <div className="groupreflection-git">
+              <img src={GIT} alt="Git" />
+            </div>
+            <div className='groupreflection-tags'>
+              <p><i>(GitHub contributors insights)</i></p>
+            </div>
+        <div className="groupreflection-content">
           <div>
             <h2>Reflection as a Group</h2>
             <p>As a group, we encountered a number of obstacles while working on Assignment 3. One of the biggest challenges we faced was the lack of clear direction and understanding of what was expected of us. This made it harder for us to get started on the assignment and determine the best course of action to take. We had to spend a considerable amount of time discussing and clarifying the instructions and expectations for the project.</p>

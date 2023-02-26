@@ -18,6 +18,22 @@
     height: auto;
 }
 
+.projectidea-tags{
+    text-align: center;
+}
+
+.projectidea-phone {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+.projectidea-phone img {
+    max-width: 50%;
+    clip-path: inset(10px);
+    gap: 10px;
+  }
+
 .projectidea-pico {
     border: 1px solid transparent;
     border-color: var(--color-primary);
