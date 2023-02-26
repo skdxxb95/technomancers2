@@ -4,6 +4,7 @@ import DUCK from '../../assets/duck.png'
 import PHONE1 from '../../assets/phoneconcept1.png'
 import PHONE2 from '../../assets/phoneconcept2.png'
 import TRELLO from '../../assets/trello.png'
+import TIMEFRAME from '../../assets/timeframe.png'
 import './projectidea.css'
 
 const ProjectIdea = () => {
@@ -185,8 +186,12 @@ const ProjectIdea = () => {
           </div>
           <div>
             <h2>Timeframe</h2>
-            <br></br>
-            <p>Hellooo</p>
+            <div className="projectidea-timeframe">
+              <img src={TIMEFRAME} alt="Timeframe" />
+            </div>
+            <div className='projectidea-tags'>
+              <p><i>(Table of our roles and progress throughout the 15 week timeframe)</i></p>
+            </div>
           </div>
           <div>
             <h2>Risks</h2>

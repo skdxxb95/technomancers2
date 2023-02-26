@@ -18,6 +18,13 @@
     height: auto;
 }
 
+.projectidea-timeframe {
+    padding-top: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 .projectidea-tags{
     text-align: center;
 }
