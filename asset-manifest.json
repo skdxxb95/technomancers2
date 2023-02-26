@@ -1,14 +1,18 @@
 {
   "files": {
-    "main.css": "/technomancers2/static/css/main.d669d36a.css",
-    "main.js": "/technomancers2/static/js/main.29e61813.js",
+    "main.css": "/technomancers2/static/css/main.60c941f8.css",
+    "main.js": "/technomancers2/static/js/main.737b9cef.js",
+    "static/media/trello.png": "/technomancers2/static/media/trello.f6859bcd684e35278dbc.png",
     "static/media/rasppico.jpg": "/technomancers2/static/media/rasppico.3cae94d4ff4a76efb1f4.jpg",
+    "static/media/phoneconcept1.png": "/technomancers2/static/media/phoneconcept1.64916bd7575d428525a7.png",
+    "static/media/phoneconcept2.png": "/technomancers2/static/media/phoneconcept2.4cfa0ffce9493fa23ef8.png",
+    "static/media/github.png": "/technomancers2/static/media/github.e21d348466d073663afd.png",
     "index.html": "/technomancers2/index.html",
-    "main.d669d36a.css.map": "/technomancers2/static/css/main.d669d36a.css.map",
-    "main.29e61813.js.map": "/technomancers2/static/js/main.29e61813.js.map"
+    "main.60c941f8.css.map": "/technomancers2/static/css/main.60c941f8.css.map",
+    "main.737b9cef.js.map": "/technomancers2/static/js/main.737b9cef.js.map"
   },
   "entrypoints": [
-    "static/css/main.d669d36a.css",
-    "static/js/main.29e61813.js"
+    "static/css/main.60c941f8.css",
+    "static/js/main.737b9cef.js"
   ]
 }
