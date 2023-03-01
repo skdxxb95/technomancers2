@@ -25,6 +25,18 @@
     align-items: center;
 }
 
+.projectidea-proto {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+.projectidea-proto img {
+    max-width: 30%;
+    clip-path: inset(10px);
+    gap: 10px;
+  }
+
 .projectidea-tags{
     text-align: center;
 }

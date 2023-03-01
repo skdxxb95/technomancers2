@@ -30,7 +30,9 @@ const GroupReflection = () => {
           <div>
             <h2>Damian W.</h2>
             <p>
-              <i>*Damian is yet to contribute*</i>
+            The team has done an exceptional job, in spite of several things taxing and straining us. Getting yanked from CPT120. OUA (Open Universities Australia) and RMIT not telling us what is going on. Not knowing is going to happen, and the lack of motivation from what seems like a dead-end course that we were still going to have to pay for and get no benefit from. Not to mention my own personal life issues and concerns that have wreaked havoc on me. My Attention, Focus and Motivation has not been where it should be as a result of all these issues. The team has done well picking up the slack and reminding me of the stuff I still needed to complete.</p>
+            <br></br>
+            <p>I was able to get my parts done, but it took a good deal of prompting and assistance this time, And I appreciate and applaud their patience and understanding. Thx guys.
             </p>
           </div>
         </div>
