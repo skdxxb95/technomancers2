@@ -1,18 +1,20 @@
 {
   "files": {
-    "main.css": "/technomancers2/static/css/main.60c941f8.css",
-    "main.js": "/technomancers2/static/js/main.737b9cef.js",
+    "main.css": "/technomancers2/static/css/main.e555fa2b.css",
+    "main.js": "/technomancers2/static/js/main.6d1cc6b4.js",
+    "static/media/duckypass.jpg": "/technomancers2/static/media/duckypass.95413c0825344b7dc263.jpg",
     "static/media/trello.png": "/technomancers2/static/media/trello.f6859bcd684e35278dbc.png",
     "static/media/rasppico.jpg": "/technomancers2/static/media/rasppico.3cae94d4ff4a76efb1f4.jpg",
+    "static/media/timeframe.png": "/technomancers2/static/media/timeframe.7477d0ac640b3e28ff79.png",
     "static/media/phoneconcept1.png": "/technomancers2/static/media/phoneconcept1.64916bd7575d428525a7.png",
     "static/media/phoneconcept2.png": "/technomancers2/static/media/phoneconcept2.4cfa0ffce9493fa23ef8.png",
     "static/media/github.png": "/technomancers2/static/media/github.e21d348466d073663afd.png",
     "index.html": "/technomancers2/index.html",
-    "main.60c941f8.css.map": "/technomancers2/static/css/main.60c941f8.css.map",
-    "main.737b9cef.js.map": "/technomancers2/static/js/main.737b9cef.js.map"
+    "main.e555fa2b.css.map": "/technomancers2/static/css/main.e555fa2b.css.map",
+    "main.6d1cc6b4.js.map": "/technomancers2/static/js/main.6d1cc6b4.js.map"
   },
   "entrypoints": [
-    "static/css/main.60c941f8.css",
-    "static/js/main.737b9cef.js"
+    "static/css/main.e555fa2b.css",
+    "static/js/main.6d1cc6b4.js"
   ]
 }
